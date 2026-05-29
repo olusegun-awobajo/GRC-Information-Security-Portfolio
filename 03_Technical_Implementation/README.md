@@ -1,1 +1,1 @@
-# Technical Implementation
+# Hands-on technical lab configurations
