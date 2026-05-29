@@ -23,6 +23,7 @@ This sandbox bridges the gap between strategic business risk thresholds (MBA/CRI
 ## 📂 Repository Directory Structure
 
 ```text
+|
 ├── 📁 01_Governance_&_Policies/     # High-level corporate policy blueprints
 │   ├── Acceptable_Use_Policy.md
 │   ├── Access_Control_Policy.md
@@ -38,4 +39,5 @@ This sandbox bridges the gap between strategic business risk thresholds (MBA/CRI
 │   ├── 📁 Lab1_Hybrid_Identity/       # Active Directory to Entra ID Cloud Sync
 │   ├── 📁 Lab2_Cloud_Governance/      # Azure Policy / AWS Config JSON rules
 │   └── 📁 Lab3_Hybrid_SIEM/           # KQL/SPL Detection Rules for Sentinel/Splunk
+|
 └── README.md
