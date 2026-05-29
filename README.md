@@ -28,10 +28,12 @@ This sandbox bridges the gap between strategic business risk thresholds (MBA/CRI
 │   ├── Access_Control_Policy.md
 │   ├── Incident_Response_Plan.md
 │   └── Data_Protection_&_Privacy_Policy.md
+|
 ├── 📁 02_Risk_&_Compliance/          # Framework mappings and audit tools
 │   ├── ISO27001_2022_Gap_Analysis.xlsx
 │   ├── Corporate_Risk_Register.xlsx
 │   └── Third_Party_Risk_Management_Template.md
+|
 ├── 📁 03_Technical_Implementation/   # Hands-on technical lab configurations
 │   ├── 📁 Lab1_Hybrid_Identity/       # Active Directory to Entra ID Cloud Sync
 │   ├── 📁 Lab2_Cloud_Governance/      # Azure Policy / AWS Config JSON rules
